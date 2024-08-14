@@ -1,0 +1,19 @@
+.primary-color{
+    background-color: #161A30;
+}
+
+.secondary-color{
+    background-color: #31304D;
+}
+
+.first-light{
+    background-color: #B6BBC4;
+}
+
+.second-light{
+    background-color: #F0ECE5;
+}
+
+#header{
+    border-radius: 0 0 0 100px;
+}
