@@ -1,3 +1,12 @@
+body {
+    font-family: Vazirmatn, sans-serif;
+}
+
+pre{
+    font-family: Vazirmatn, sans-serif;
+    font-size: 1.1rem;
+}
+
 .primary-color{
     background-color: #161A30;
 }
@@ -16,4 +25,12 @@
 
 #header{
     border-radius: 0 0 0 100px;
+}
+
+#profile{
+    border-radius: 50%;
+    border: 20px solid #31304D;
+    position: absolute;
+    left: 210px;
+    top: -10px;
 }
