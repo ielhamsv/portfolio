@@ -1,3 +1,10 @@
+a{
+    text-decoration: none;
+}
+
+button{
+    border: none;
+}
 body {
     font-family: Vazirmatn, sans-serif;
     background-color: #B6BBC4;
@@ -51,4 +58,8 @@ pre{
     border-radius: 20px;
     border: 4px dashed #161A30;
     color: #161A30;
+}
+
+.hover:hover{
+    background-color: #31304D;
 }
