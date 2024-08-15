@@ -45,3 +45,10 @@ pre{
 .text-justify {
     text-align: justify;
 }
+.box{
+    background-color: rgba(49, 48, 77, 0.71);
+    backdrop-filter: blur(100%);
+    border-radius: 20px;
+    border: 4px dashed #161A30;
+    color: #161A30;
+}
