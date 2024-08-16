@@ -37,10 +37,6 @@ pre{
 
 #profile{
     border-radius: 50%;
-    border: 20px solid #31304D;
-    position: absolute;
-    left: 210px;
-    top: -15px;
 }
 .glass{
     background-color: rgba(240, 236, 229, 0.37);
