@@ -31,10 +31,22 @@ pre{
     background-color: #F0ECE5;
 }
 
-#header{
+#header1{
     border-radius: 0 0 0 100px;
 }
-
+#header2{
+    border-radius: 0 0 0 30px;
+    cursor: pointer;
+}
+#sidebar{
+    position: fixed;
+    top: 0;
+    border-radius: 0 0 0 50px;
+    overflow: hidden;
+    z-index: 9;
+    width: 0;
+    transition-duration:200ms ;
+}
 #profile{
     border-radius: 50%;
 }
@@ -58,4 +70,7 @@ pre{
 
 .hover:hover{
     background-color: #31304D;
+}
+.hover2:hover{
+    background-color: rgba(240, 236, 229, 0.37);
 }
