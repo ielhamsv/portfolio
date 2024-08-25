@@ -37,6 +37,9 @@ pre{
 #header2{
     border-radius: 0 0 0 30px;
     cursor: pointer;
+    position: fixed;
+    top: 0;
+    z-index: 9;
 }
 #sidebar{
     position: fixed;
